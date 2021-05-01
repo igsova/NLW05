@@ -1,4 +1,4 @@
-# Next Level Week 5
+# Next Level Week 5 - Node.js
 
 - Objective: Create a chat application using Node.js
 
@@ -9,4 +9,3 @@
 - TypeScript
 - SQLite
 - TypeORM
-
